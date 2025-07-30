@@ -11,7 +11,12 @@
 
 - Learned about for loop and while loop
 
-## Day 4: Python Collection Data Types
+## Day 4: Python Collection Data Types 1
 
 - Learned about list and tuple
 - Practiced data manipulation. Used `.append()`, `.pop()`, `.remove()`, `.extend()`, `.insert()`
+
+## Day 5: Python Collection Data Types 2
+
+- Learned about dictionary and set
+- Practiced data manipulation
